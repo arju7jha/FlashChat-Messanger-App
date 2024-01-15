@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889483780911",
+    "project_id": "chat-think-7463f",
+    "storage_bucket": "chat-think-7463f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889483780911:android:0f3e7307b5ed81091477da",
+        "android_client_info": {
+          "package_name": "com.ankitD.think_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_hZHt6hVq9Vo9torf3dRYgd_l-CQN_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
